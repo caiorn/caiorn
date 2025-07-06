@@ -13,17 +13,10 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </p>
 
+> "Código limpo é como um bom café: forte, direto e sem açúcar."
 
----
 
-```txt
-⚙️ Arquitetura escalável com separation of concerns.
-💻  Missão: escrever menos e entregar mais valor!
-```
 
----
-
-### 📊 Estatísticas Visuais
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiorn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="450"/>
@@ -31,11 +24,6 @@
 </div>
 
 
----
-
----
-
-### 🐍Commits
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/caiorn/caiorn/output/snake.svg" alt="Snake animation" />
@@ -43,20 +31,9 @@
 
 ---
 
-### 🏆 Troféus GitHub
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caiorn&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
----
 
-### 🧭 Contato
 
-<p align="center">
-  <a href="https://linkedin.com/in/caio-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:caio@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
-</p>
 
----
-
-> "Código limpo é como um bom café: forte, direto e sem açúcar."
