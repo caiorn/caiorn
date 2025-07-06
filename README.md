@@ -26,24 +26,19 @@
 ### 📊 Estatísticas Visuais
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiorn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=caiorn&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiorn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorn&layout=compact&theme=tokyonight&hide_border=true" width="342"/>
 </div>
 
----
-
-### 🔝 Linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorn&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-### 🐍 Snake Game dos Commits
+---
+
+### 🐍Commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caiorn/caiorn/output/github-contribution-grid-snake.svg" alt="snake commit animation">
+    <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
