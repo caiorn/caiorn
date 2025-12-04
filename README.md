@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </p>
 
-> "Código limpo é como um bom café: forte, direto e sem açúcar."
+> "Código limpo é como um bom café: forte, direto."
 
 
 
